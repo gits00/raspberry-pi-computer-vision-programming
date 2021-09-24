@@ -12,3 +12,4 @@ for i in range(3):
     plt.title(titles[i])
     plt.axis('off')
 plt.show()
+#Gitesh
